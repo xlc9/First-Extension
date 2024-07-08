@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input, button {
+    margin: 10px 0;
+}
+
+#greeting {
+    margin-top: 20px;
+    font-weight: bold;
+}
